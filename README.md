@@ -32,7 +32,7 @@ Publish the website in the given URL.
 ## PROGRAM :
 
 ## OUTPUT:
-![output](calc.png)
+![output](figma.png)
 
 ## Result:
 the above program to create a event registration has been successfully executed
